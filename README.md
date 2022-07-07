@@ -1,3 +1,1 @@
 - 👊🏼 Hi, I’m Adam Vincze
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning the Seon Infrastructure
